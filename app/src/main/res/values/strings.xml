@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YoutubeSkip</string>
+    <string name="accessibility_service_label">Youtube Skip</string>
+    <string name="accessibility_service_description">Automatically Skips ads when available</string>
+</resources>
